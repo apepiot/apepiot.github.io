@@ -22,10 +22,13 @@ author: Amandine Pepiot
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching: "teaching"
+  Projects: "projects"
+  #Resources:
+  # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
