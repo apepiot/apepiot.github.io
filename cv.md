@@ -17,7 +17,11 @@ you can [download pdf](https://apepiot.github.io/docs/CV_github_20230513_FR.pdf)
 
 <embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/CV_github_20230513_FR.pdf" type="application/pdf"/>
 
-%<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
+<embed src="[../docs/CV_github_20230513_FR.pdf" type="application/pdf"/>
+
+
+<object data="{{ site.url }}{{ site.baseurl }}/docs/CV_github_20230513_FR.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 
 ## Currently
 
