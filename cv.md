@@ -3,6 +3,7 @@
 layout: cv
 title: Amandine Pepiot's CV
 ---
+
 # Amandine Pepiot
 PhD student in biomathematics
 
