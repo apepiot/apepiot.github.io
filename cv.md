@@ -15,9 +15,11 @@ PhD student in biomathematics
 - Teaching assistant in mathematics at INSA Toulouse, France.
 
 
-#### Research interests
+### Research interests
 
 infectious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
+
+---
 
 ### Research experience
 
