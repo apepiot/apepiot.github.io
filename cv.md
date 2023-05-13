@@ -6,7 +6,7 @@ title: Amandine Pepiot's CV
 # Amandine Pepiot
 PhD student in biomathematics
 
-télécharger le CV français [ici](https://apepiot.github.io/pdfs/test.pdf).
+télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_20230513_FR.pdf).
 
 
 
