@@ -20,7 +20,7 @@ PhD student in biomathematics
 infectious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
 
 
-## Education
+### Education
 
 `2019-now`
 __Doctoral studies, Sorbonne Université, Paris, France__
@@ -32,12 +32,12 @@ __Winter semester in mathematics at Technische Universität Dresden (TUD), Germa
 __Engineering school in applied mathematics, INSA Rennes, France__
 
 
-## Publications
+### Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
-## Teaching
+### Teaching
 `2022-now`
 Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France.
 
@@ -49,7 +49,7 @@ télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.
 
 download the resume in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
 
-<!-- ### Footer
+<!-- #### Footer
 
 Last updated: May 2023 -->
 
