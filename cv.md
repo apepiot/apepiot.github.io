@@ -1,6 +1,5 @@
-
 ---
-layout: cv
+layout: page
 title: Amandine Pepiot's resume
 ---
 
