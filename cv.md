@@ -1,26 +1,13 @@
 
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amandine Pepiot's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amandine Pepiot
+PhD student in biomathematics
 
-<div id="webaddress">
-<a href="https://apepiot.github.io/docs/test.pdf">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_20230513_FR.pdf).
 
-you can [download pdf](https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf) here 1.
-
-you can [download pdf](https://apepiot.github.io/docs/test.pdf) here 2.
-
-<embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf" type="application/pdf"/>
-
-<embed src="[../docs/test.pdf" type="application/pdf"/>
-
-
-<object data="{{ site.url }}{{ site.baseurl }}/docs/CV_github_20230513_FR.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 ## Currently
