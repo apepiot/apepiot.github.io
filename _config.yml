@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: AP
 
 # Your name to show in the footer
 author: Amandine Pepiot
@@ -21,6 +21,7 @@ author: Amandine Pepiot
 
 navbar-links:
   About Me: "aboutme"
+  CV: "CV"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
