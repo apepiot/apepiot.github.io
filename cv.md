@@ -4,7 +4,7 @@ layout: cv
 title: Amandine Pepiot's CV
 ---
 
-# Amandine Pepiot
+## Amandine Pepiot
 PhD student in biomathematics
 
 télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.pdf).
@@ -15,32 +15,25 @@ download the CV in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pd
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+PhD student in biomathematics. Infectious disease modeling. 
+Teaching assistant in mathematics at INSA Toulouse, France.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+inefctious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-now`
+__Doctoral studies, Sorbonne Université, Paris, France__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017-2018`
+__Winter semester in mathematics at Technische Universität Dresden (TUD), Germany__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2013 - 2015`
+__Engineering school in applied mathematics, INSA Rennes, France__
 
 
 
