@@ -10,7 +10,7 @@ PhD student in biomathematics
 
 ### Currently
 
-- PhD student in biomathematics. Infectious disease modeling. 
+- PhD student in biomathematics. Infectious disease modeling. ([details](https://apepiot.github.io/projects).)
 
 - Teaching assistant in mathematics at INSA Toulouse, France.
 
