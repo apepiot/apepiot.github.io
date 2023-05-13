@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Amandine Pepiot's resume
-subtitle test
+subtitle: test
 ---
 
 ## Amandine Pepiot
