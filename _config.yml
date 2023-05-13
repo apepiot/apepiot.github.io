@@ -53,7 +53,6 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "apepiot@pm.me"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: apepiot
   twitter: AmandinePepiot
@@ -78,6 +77,7 @@ social-network-links:
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
+email: "apepiot@pm.me"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -93,6 +93,7 @@ share-links-active:
   facebook: false
   linkedin: true
   vk: false
+  ORCID: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
