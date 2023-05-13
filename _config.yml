@@ -20,7 +20,7 @@ author: Amandine Pepiot
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   CV: "cv"
   Teaching: "teaching"
   Projects: "projects"
