@@ -29,6 +29,7 @@ navbar-links:
   # - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Contact: "contact"
+  Posts: "blog"
 
 ################
 # --- Logo --- #
@@ -276,6 +277,8 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+
+paginate_path: "/blog/page:5/"
 
 # Exclude these files from production site
 exclude:
