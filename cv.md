@@ -18,6 +18,18 @@ PhD student in biomathematics
 
 infectious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
 
+### Research experience
+
+`2018-2019`
+__Applied mathematics engineer at INSERM, Paris, France__
+
+`2018`
+__Internship at INSERM, Paris, France__
+_Infectious diseases modeling: evaluating the impact of self-testing on the HIV epidemics in France_
+
+`2017` 
+__Internship at Terres Inovia, Grignon, France__
+ _Predicting the average yield of rapeseed in France with time series._
 
 ### Education
 
