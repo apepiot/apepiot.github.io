@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: subtitle
+subtitle: some subtitle
 ---
 
 My name is Amandine Pepiot. I am currently a PhD candidate in biomathematics.
 
-# My interests
+ **My interests**
 - Infectious disease modelling
 
-# Other interests
+**Other interests**
 - Behavioral Ecology
 
 
