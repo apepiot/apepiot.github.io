@@ -13,6 +13,8 @@ Physicist, Mathematician, Cambridge professor.
 
 you can [download pdf](https://github.com/apepiot/apepiot.github.io/tree/master/docs/CV_github_20230513_FR.pdf) here.
 
+you can [download pdf](https://apepiot.github.io/docs/CV_github_20230513_FR.pdf) here 2.
+
 <embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/CV_github_20230513_FR.pdf" type="application/pdf"/>
 
 
