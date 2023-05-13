@@ -11,13 +11,13 @@ Physicist, Mathematician, Cambridge professor.
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-you can [download pdf](https://github.com/apepiot/apepiot.github.io/tree/master/docs/CV_github_20230513_FR.pdf) here.
+you can [download pdf](https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf) here 1.
 
-you can [download pdf](https://apepiot.github.io/docs/CV_github_20230513_FR.pdf) here 2.
+you can [download pdf](https://apepiot.github.io/docs/test.pdf) here 2.
 
-<embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/CV_github_20230513_FR.pdf" type="application/pdf"/>
+<embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf" type="application/pdf"/>
 
-<embed src="[../docs/CV_github_20230513_FR.pdf" type="application/pdf"/>
+<embed src="[../docs/test.pdf" type="application/pdf"/>
 
 
 <object data="{{ site.url }}{{ site.baseurl }}/docs/CV_github_20230513_FR.pdf" width="1000" height="1000" type="application/pdf"></object>
