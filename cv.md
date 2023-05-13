@@ -1,7 +1,7 @@
 
 ---
 layout: cv
-title: Amandine Pepiot's CV
+title: Amandine Pepiot's resume
 ---
 
 ## Amandine Pepiot
@@ -44,7 +44,7 @@ __Engineering school in applied mathematics, INSA Rennes, France__
 
 ## Teaching
 `2022-now`
-- Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France.
+Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France.
 
 `2019-2021`
 __Tutorials of biostatistics__
