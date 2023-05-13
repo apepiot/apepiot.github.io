@@ -11,8 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-<embed src="[https://username.github.io/CV_github_20230513.pdf](https://apepiot.github.io/docs/)" type="application/pdf"/>
-you can [download pdf]([https://belovanna.github.io/assets/mydoc](https://username.github.io/CV_github_20230513).pdf) here.
+<embed src="https://username.github.io/CV_github_20230513.pdf" type="application/pdf"/>
+
+you can [download pdf](https://username.github.io/CV_github_20230513.pdf) here.
 
 ## Currently
 
