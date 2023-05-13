@@ -1,9 +1,0 @@
----
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-thumbnail-img: /assets/img/thumb.png
-tags: [test]
-comments: true
----
-This is a test.
