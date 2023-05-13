@@ -13,16 +13,16 @@ download the resume in English [here](https://apepiot.github.io/pdfs/CV_github_E
 
 
 
-## Currently
+### Currently
 
 - PhD student in biomathematics. Infectious disease modeling. 
 
 - Teaching assistant in mathematics at INSA Toulouse, France.
 
 
-### Research interests
+#### Research interests
 
-inefctious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
+infectious disease modeling, voluntary testing, HIV, game theory, ecology, population dynamics.
 
 
 ## Education
