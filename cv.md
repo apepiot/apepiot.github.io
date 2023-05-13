@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 you can [download pdf](https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf) here 1.
 
-you can [download pdf](https://apepiot.github.io/docs/test.pdf) here 2.
+you can [download pdf](https://apepiot.github.io/pdfs/test.pdf) here 2.
 
 <embed src="[https://github.com/apepiot/apepiot.github.io/tree/master/docs/test.pdf" type="application/pdf"/>
 
