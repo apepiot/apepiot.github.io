@@ -7,6 +7,7 @@ title: Amandine Pepiot's resume
 ## Amandine Pepiot
 PhD student in biomathematics
 
+---
 
 ### Currently
 
