@@ -6,11 +6,11 @@ subtitle: subtitle
 
 My name is Amandine Pepiot. I am currently a PhD candidate in biomathematics.
 
-## My interets
-    - Infectious disease modelling
+## My interests
+- Infectious disease modelling
 
 ## Other interests
-    - Behavioral Ecology
+- Behavioral Ecology
 
 
 
