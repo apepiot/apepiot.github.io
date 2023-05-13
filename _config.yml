@@ -29,7 +29,7 @@ navbar-links:
   # - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Contact: "contact"
-  Posts: "blog"
+  Posts: "blog/index.html"
 
 ################
 # --- Logo --- #
