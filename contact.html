@@ -1,106 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Contact V15</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+---
 
-<link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+layout: page
 
-<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+title: "Contact Us"
 
-<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+permalink: /contact/
 
-<link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+---
 
-<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 
-<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 
-<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<form action="{FORM_ENDPOINT}" method="POST" target="_blank">
 
-<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+  <div class="mb-3 pt-0">
 
-<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+    <input
 
-<link rel="stylesheet" type="text/css" href="css/util.css">
-<link rel="stylesheet" type="text/css" href="css/main.css">
+      type="text"
 
-<meta name="robots" content="noindex, follow">
-<script nonce="3c8b1117-68bc-4768-95c1-33cd900545f9">(function(w,d){!function(bg,bh,bi,bj){bg[bi]=bg[bi]||{};bg[bi].executed=[];bg.zaraz={deferred:[],listeners:[]};bg.zaraz.q=[];bg.zaraz._f=function(bk){return function(){var bl=Array.prototype.slice.call(arguments);bg.zaraz.q.push({m:bk,a:bl})}};for(const bm of["track","set","debug"])bg.zaraz[bm]=bg.zaraz._f(bm);bg.zaraz.init=()=>{var bn=bh.getElementsByTagName(bj)[0],bo=bh.createElement(bj),bp=bh.getElementsByTagName("title")[0];bp&&(bg[bi].t=bh.getElementsByTagName("title")[0].text);bg[bi].x=Math.random();bg[bi].w=bg.screen.width;bg[bi].h=bg.screen.height;bg[bi].j=bg.innerHeight;bg[bi].e=bg.innerWidth;bg[bi].l=bg.location.href;bg[bi].r=bh.referrer;bg[bi].k=bg.screen.colorDepth;bg[bi].n=bh.characterSet;bg[bi].o=(new Date).getTimezoneOffset();if(bg.dataLayer)for(const bt of Object.entries(Object.entries(dataLayer).reduce(((bu,bv)=>({...bu[1],...bv[1]})))))zaraz.set(bt[0],bt[1],{scope:"page"});bg[bi].q=[];for(;bg.zaraz.q.length;){const bw=bg.zaraz.q.shift();bg[bi].q.push(bw)}bo.defer=!0;for(const bx of[localStorage,sessionStorage])Object.keys(bx||{}).filter((bz=>bz.startsWith("_zaraz_"))).forEach((by=>{try{bg[bi]["z_"+by.slice(7)]=JSON.parse(bx.getItem(by))}catch{bg[bi]["z_"+by.slice(7)]=bx.getItem(by)}}));bo.referrerPolicy="origin";bo.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(bg[bi])));bn.parentNode.insertBefore(bo,bn)};["complete","interactive"].includes(bh.readyState)?zaraz.init():bg.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,"zarazData","script");})(window,document);</script></head>
-<body>
-<div class="container-contact100">
-<div class="contact100-map" id="google_map" data-map-x="40.722047" data-map-y="-73.986422" data-pin="images/icons/map-marker.png" data-scrollwhell="0" data-draggable="1"></div>
-<div class="wrap-contact100">
-<div class="contact100-form-title" style="background-image: url(images/bg-01.jpg);">
-<span class="contact100-form-title-1">
-Contact Us
-</span>
-<span class="contact100-form-title-2">
-Feel free to drop us a line below!
-</span>
-</div>
-<form class="contact100-form validate-form">
-<div class="wrap-input100 validate-input" data-validate="Name is required">
-<span class="label-input100">Full Name:</span>
-<input class="input100" type="text" name="name" placeholder="Enter full name">
-<span class="focus-input100"></span>
-</div>
-<div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
-<span class="label-input100">Email:</span>
-<input class="input100" type="text" name="email" placeholder="Enter email addess">
-<span class="focus-input100"></span>
-</div>
-<div class="wrap-input100 validate-input" data-validate="Phone is required">
-<span class="label-input100">Phone:</span>
-<input class="input100" type="text" name="phone" placeholder="Enter phone number">
-<span class="focus-input100"></span>
-</div>
-<div class="wrap-input100 validate-input" data-validate="Message is required">
-<span class="label-input100">Message:</span>
-<textarea class="input100" name="message" placeholder="Your Comment..."></textarea>
-<span class="focus-input100"></span>
-</div>
-<div class="container-contact100-form-btn">
-<button class="contact100-form-btn">
-<span>
-Submit
-<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
-</span>
-</button>
-</div>
+      placeholder="Your name"
+
+      name="name"
+
+      class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full"
+
+      required
+
+    />
+
+  </div>
+
+  <div class="mb-3 pt-0">
+
+    <input
+
+      type="email"
+
+      placeholder="Email"
+
+      name="email"
+
+      class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full"
+
+      required
+
+    />
+
+  </div>
+
+  <div class="mb-3 pt-0">
+
+    <textarea
+
+      placeholder="Your message"
+
+      name="message"
+
+      class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full"
+
+      required
+
+    ></textarea>
+
+  </div>
+
+  <div class="mb-3 pt-0">
+
+    <button
+
+      class="bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+
+      type="submit"
+
+    >Send a message</button>
+
+  </div>
+
 </form>
-</div>
-</div>
-<div id="dropDownSelect1"></div>
-
-<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-
-<script src="vendor/animsition/js/animsition.min.js"></script>
-
-<script src="vendor/bootstrap/js/popper.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-<script src="vendor/select2/select2.min.js"></script>
-
-<script src="vendor/daterangepicker/moment.min.js"></script>
-<script src="vendor/daterangepicker/daterangepicker.js"></script>
-
-<script src="vendor/countdowntime/countdowntime.js"></script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKFWBqlKAGCeS1rMVoaNlwyayu0e0YRes"></script>
-<script src="js/map-custom.js"></script>
-
-<script src="js/main.js"></script>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-23581568-13');
-	</script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c6ae7616a42f18c","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
-</body>
-</html>
