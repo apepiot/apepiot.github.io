@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Amandine Pepiot's resume
+title: Resume
 ---
 
-## Amandine Pepiot
-PhD student in biomathematics
-
----
 
 ### Currently
 
