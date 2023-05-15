@@ -51,6 +51,8 @@ __Teaching assistant in theoretical and applied mathematics at INSA Toulouse, Fr
 __Tutorials of biostatistics__
 for pre-med school students at Sorbonne Université, Paris, France
 
+---
+
 télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.pdf).
 
 download the resume in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
