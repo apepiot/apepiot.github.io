@@ -22,7 +22,7 @@ author: Amandine Pepiot
 navbar-links:
  # About Me: "aboutme"
   CV: "cv"
-  Research: "projects"
+  Research: "research"
   Teaching: "teaching"
   #Resources:
   # - Beautiful Jekyll: "https://beautifuljekyll.com"
