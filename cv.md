@@ -45,11 +45,10 @@ __Engineering school in applied mathematics, INSA Rennes, France__
 
 ### Teaching
 `2022-now`
-__Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France.__
+__Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France__
 
 `2019-2021`
-__Tutorials of biostatistics__
-for pre-med school students at Sorbonne Université, Paris, France
+__Tutorials of biostatistics for pre-med school students at Sorbonne Université, Paris, France__
 
 ---
 
