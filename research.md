@@ -6,8 +6,12 @@ title: Research
 __PhD, Sorbonne Univeristé, Paris, France__ 
 *Infectious disease elimination using self-testing? Game-theoretical approach and application to the HIV
 epidemic.*
+(more details will be added soon)
 
 ### Past projects
+__Internship, IPLESP, Paris, France__
+*Evaluating the impact of hometests on the HIV epidemic of men who have sex with men in France*
+(more details will be added soon)
 
 ### Publications
 
