@@ -45,17 +45,16 @@ __Engineering school in applied mathematics, INSA Rennes, France__
 
 ### Teaching
 `2022-now`
-__Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France.__
+__Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France__
 
 `2019-2021`
-__Tutorials of biostatistics__
-for pre-med school students at Sorbonne Université, Paris, France
+__Tutorials of biostatistics for pre-med school students at Sorbonne Université, Paris, France__
 
 ---
 
 télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.pdf).
 
-download the resume in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
+download the CV in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
 
 <!-- #### Footer
 
