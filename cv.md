@@ -6,7 +6,7 @@ title: Resume
 
 ### Currently
 
-- PhD student in biomathematics. Infectious disease modeling. ([details](https://apepiot.github.io/projects))
+- PhD student in biomathematics. Infectious disease modeling. ([details](https://apepiot.github.io/research))
 
 - Teaching assistant in mathematics at INSA Toulouse, France.
 
