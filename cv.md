@@ -10,7 +10,7 @@ __Applied mathematics engineer at INSERM, Paris, France__
 
 `2018`
 __Internship at INSERM, Paris, France__
-_Infectious diseases modeling: evaluating the impact of self-testing on the HIV epidemics in France_
+_Infectious diseases modeling: evaluating the impact of self-testing on the HIV epidemic in France_
 
 `2017` 
 __Internship at Terres Inovia, Grignon, France__
