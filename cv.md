@@ -22,7 +22,7 @@ __Internship at Terres Inovia, Grignon, France__
 __Doctoral studies, Sorbonne Université, Paris, France__
 
 `2017-2018`
-__Winter semester in mathematics at Technische Universität Dresden (TUD), Germany__
+__Winter semester in mathematics, TUD Dresden, Germany__
 
 `2013 - 2015`
 __Engineering school in applied mathematics, INSA Rennes, France__

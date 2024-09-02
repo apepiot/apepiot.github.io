@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 ### Current projects
-__PhD, Sorbonne Univeristé, Paris, France__ 
+__PhD, Sorbonne Université, Paris, France__ 
 
 *Infectious disease elimination using self-testing? Game-theoretical approach and application to the HIV
 epidemic.*
