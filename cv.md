@@ -30,7 +30,7 @@ __Engineering school in applied mathematics, INSA Rennes, France__
 
 
 ### Teaching
-`2022-now`
+`2022-2024`
 __Teaching assistant in theoretical and applied mathematics at INSA Toulouse, France__
 
 `2019-2021`
