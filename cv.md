@@ -18,13 +18,13 @@ __Internship at Terres Inovia, Grignon, France__
 
 ### Education
 
-`2019-now`
+`2019-2024`
 __Doctoral studies, Sorbonne Université, Paris, France__
 
 `2017-2018`
 __Winter semester in mathematics, TUD Dresden, Germany__
 
-`2013 - 2015`
+`2015-2018`
 __Engineering school in applied mathematics, INSA Rennes, France__
 
 
