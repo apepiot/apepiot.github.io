@@ -10,7 +10,6 @@ __PhD, Sorbonne Université, Paris, France__
 __Internship, IPLESP, Paris, France__
 
 *Evaluating the impact of hometests on the HIV epidemic of men who have sex with men in France*
-(more details will be added soon)
 
 ### Publications
 
