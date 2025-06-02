@@ -5,8 +5,7 @@ title: Research
 ### Past projects
 __PhD, Sorbonne Université, Paris, France__ 
 
-*Infectious disease elimination using self-testing? Game-theoretical approach and application to the HIV
-epidemic.* [[manuscript](https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)]
+*Eliminating HIV with voluntary testing? A game theoretic perspective* [[manuscript](https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)]
 
 __Internship, IPLESP, Paris, France__
 
