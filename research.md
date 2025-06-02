@@ -2,14 +2,12 @@
 layout: page
 title: Research
 ---
-### Current projects
+### Past projects
 __PhD, Sorbonne Université, Paris, France__ 
 
 *Infectious disease elimination using self-testing? Game-theoretical approach and application to the HIV
-epidemic.*
-(more details will be added soon)
+epidemic.* [[manuscript](https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)]
 
-### Past projects
 __Internship, IPLESP, Paris, France__
 
 *Evaluating the impact of hometests on the HIV epidemic of men who have sex with men in France*
