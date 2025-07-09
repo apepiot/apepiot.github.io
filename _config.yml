@@ -53,7 +53,7 @@ round-avatar: true
 social-network-links:
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: apepiot
-  twitter: AmandinePepiot
+# twitter: AmandinePepiot
   facebook:
   linkedin: amandine-pepiot-921618110/
 #  medium: yourname
