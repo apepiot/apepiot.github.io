@@ -11,7 +11,7 @@ My name is Amandine Pepiot. I am currently a PhD candidate in biomathematics at 
 - Population dynamics
 - Game theory
 
-**I'm also interested in**
+**I would be also interested to work in**
 - Behavioral ecology
 - Evolutionary game theory
 
