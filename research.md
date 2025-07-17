@@ -13,6 +13,8 @@ __Internship, IPLESP, Paris, France__
 
 ### Publications
 
+__ Work on voluntary testing for sexually transmitted infections __
+
 __Pepiot A.__, Velter A., Rahib D. and Breban R., Epidemiological strategies based on self-screening tools:
 A modeling assessment, under review, 2024. (see Chap. VII.3., pages 86-244 of the [thesis(https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)])
 
