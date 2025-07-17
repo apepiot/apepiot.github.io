@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 ### Past projects
-__PhD, Sorbonne Université, Paris, France__ 
+__PhD, Sorbonne Université, Paris, France__
 *Eliminating HIV with voluntary testing? A game theoretic perspective* [[manuscript](https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)]
 
 __Internship, IPLESP, Paris, France__
