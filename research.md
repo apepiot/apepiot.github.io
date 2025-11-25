@@ -2,6 +2,10 @@
 layout: page
 title: Research
 ---
+
+__Postdoctoral fellow, IAME, France__
+*Evaluation of the effectiveness and cost-effectiveness of prevention and screening strategies for bacterial sexually transmitted infections among men who have sex with men in France*
+
 ### Past projects
 __PhD, Sorbonne Université, Paris, France__ 
 
