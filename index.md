@@ -3,16 +3,9 @@ layout: page
 title: Amandine Pepiot's personal page.
 ---
 
-My name is Amandine Pepiot. I am currently a PhD candidate in biomathematics at Sorbonne Université, Paris and a teaching assistant in mathematics at INSA Toulouse, France.
+I am currently a postdoctoral researcher at IAME (INSERM - UPCité - University Sorbonne Paris Nord). I am interested in evaluating the effectiveness and cost-effectiveness of biomedical prevention and screening methods for the epidemic of bacterial sexually transmitted infections among men who have sex with men in France.
 
 **I am working on**
 - Infectious disease modelling
-- Voluntary testing
-- Population dynamics
-- Game theory
-
-**I would be also interested to work in**
-- Behavioral ecology
-- Evolutionary game theory
-
+- Prevention methods in the fight against STI epidemics
 
