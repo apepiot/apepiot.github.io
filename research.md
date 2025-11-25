@@ -3,16 +3,14 @@ layout: page
 title: Research
 ---
 
-__Postdoctoral fellow, IAME, France__
+__Postdoctoral fellow, IAME, France.__
 *Evaluation of the effectiveness and cost-effectiveness of prevention and screening strategies for bacterial sexually transmitted infections among men who have sex with men in France*
 
 ### Past projects
-__PhD, Sorbonne Université, Paris, France__ 
-
+__PhD, Sorbonne Université, Paris, France.__ 
 *Eliminating HIV with voluntary testing? A game theoretic perspective* [[manuscript](https://apepiot.github.io/pdfs/PhDthesis_PEPIOT_defense.pdf)]
 
-__Internship, IPLESP, Paris, France__
-
+__Internship, IPLESP, Paris, France.__
 *Evaluating the impact of hometests on the HIV epidemic of men who have sex with men in France*
 
 ### Publications
