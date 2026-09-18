@@ -40,8 +40,6 @@ __Tutorials of biostatistics for pre-med school students at Sorbonne Université
 
 ---
 
-télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.pdf).
-
 download the CV in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
 
 <!-- #### Footer
