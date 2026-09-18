@@ -23,6 +23,4 @@ __Article__, Pepiot A., Supervie V. and Breban R., Impact of voluntary testing o
 
 ------------------------------------------------------------------------------------
 
-télécharger le CV français [ici](https://apepiot.github.io/pdfs/CV_github_FR.pdf).
-
 download the CV in English [here](https://apepiot.github.io/pdfs/CV_github_EN.pdf).
