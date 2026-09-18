@@ -4,9 +4,11 @@ title: Resume
 ---
 
 ### Research experience
+`2025-`
+__Postdoctoral researcher at IAME (INSERM), Paris, France__
 
 `2018-2019`
-__Applied mathematics engineer at INSERM, Paris, France__
+__Applied mathematics engineer at IPLESP (INSERM), Paris, France__
 
 `2018`
 __Internship at INSERM, Paris, France__
