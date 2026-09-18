@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Currently
-__Postdoctoral fellow, IAME, France.__
+__Postdoctoral fellow, IAME, Paris, France.__
 *Evaluation of the effectiveness and cost-effectiveness of prevention and screening strategies for bacterial sexually transmitted infections among men who have sex with men in France*
 
 ### Past projects
