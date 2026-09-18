@@ -16,6 +16,8 @@ __Internship, IPLESP, Paris, France.__
 
 ### Publications
 
+__Article__, Pepiot A., Rahib D., Velter A. and Breban R., Modelling assessment of epidemiological strategies based on self-screening tools. Communications Medicine 6, 460 (2026). [[manuscript](https://doi.org/10.1038/s43856-026-01687-3)] 
+
 __Article__, Pepiot A., Supervie V. and Breban R., Impact of voluntary testing on infectious disease epidemiology : A game theoretic approach. PLOS ONE 18(11): e0293968, 2023 [[manuscript](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293968)] [[code](https://github.com/apepiot/voluntary-testing-game)]
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
